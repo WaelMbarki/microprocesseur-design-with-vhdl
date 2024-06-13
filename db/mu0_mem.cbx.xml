@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="mu0_mem">
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|sequenceur:seq|lpm_mux:Mux0" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|sequenceur:seq|lpm_mux:Mux1" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_0" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|sequenceur:seq|lpm_mux:Mux2" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_1" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_10" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux14" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux5" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|sequenceur:seq|lpm_mux:Mux3" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_11" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_2" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux15" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux6" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|sequenceur:seq|lpm_mux:Mux4" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_12" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_3" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux7" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|sequenceur:seq|lpm_mux:Mux5" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_13" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_4" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux0" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux8" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|sequenceur:seq|lpm_mux:Mux6" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_14" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_5" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux1" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux10" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux9" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|sequenceur:seq|lpm_mux:Mux7" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_15" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_6" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux11" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux2" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|sequenceur:seq|lpm_mux:Mux8" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_7" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux12" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux3" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_8" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux13" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|mu0:processeur|alu:al|lpm_mux:Mux4" CBX_FILE_NAME="mux_joc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mu0_mem|ram:memoire|lpm_mux:memory_rtl_9" CBX_FILE_NAME="mux_joc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
